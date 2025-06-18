@@ -18,7 +18,6 @@ Cloud misconfigurations and compliance lapses were major concerns for the organi
 - Cut mean time to remediate (MTTR) by at least 50%
 - Establish automated monitoring and remediation workflows
 
-
 ---
 
 ## 3. Stakeholders and Responsibilities
@@ -40,9 +39,10 @@ Cloud misconfigurations and compliance lapses were major concerns for the organi
 ---
 
 ## 5. Project Implementation Steps
-![image](https://github.com/user-attachments/assets/9240847c-44b0-40e5-8686-6802eba52b60)
 
 ### Phase 1: Discovery & Onboarding
+![image](https://github.com/user-attachments/assets/9240847c-44b0-40e5-8686-6802eba52b60)
+
 - Agentless deployment of **Prisma Cloud CSPM** across 12 AWS and 8 Azure accounts
 - Integrated over 250 compliance policies, including CIS, NIST, PCI DSS
 - Identified 3,400+ misconfigurations including 1,200+ critical issues
