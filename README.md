@@ -45,7 +45,7 @@ Cloud misconfigurations and compliance lapses were major concerns for the organi
 
 ### Phase 1: Discovery & Onboarding
 - Agentless deployment of **Prisma Cloud CSPM** across 12 AWS and 8 Azure accounts
-- Integrated over 250 compliance policies including CIS, NIST, PCI DSS
+- Integrated over 250 compliance policies, including CIS, NIST, PCI DSS
 - Identified 3,400+ misconfigurations including 1,200+ critical issues
 
 ### Phase 2: Integration & Automation
@@ -76,6 +76,8 @@ Cloud misconfigurations and compliance lapses were major concerns for the organi
 ---
 
 ## 7. Outcomes
+![image](https://github.com/user-attachments/assets/857f4e6f-9dbf-48eb-8969-2267fecda20a)
+
 - **72% reduction** in critical misconfigurations
 - NIST CSF compliance improved from **68% to 93%**
 - MTTR dropped **from 48 hours to 15 hours** (68% improvement)
