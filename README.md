@@ -1,4 +1,4 @@
-# Cloud Security Posture Management (CSPM) Project
+# Cloud Security Posture Management (CSPM)
 
 ![image](https://github.com/user-attachments/assets/5fee464f-7dfe-4eaa-b8b0-2abc93775166)
 
