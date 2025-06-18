@@ -10,7 +10,6 @@
 
 ## 1. Background & Problem Statement
 Cloud misconfigurations and compliance lapses were major concerns for the organization’s growing AWS and Azure cloud environments. Manual processes couldn’t scale, and exposures like public S3 buckets, inconsistent IAM policies, and untagged resources posed regulatory and security threats. This led to the launch of a CSPM project aimed at automating compliance monitoring, reducing misconfigurations, and strengthening incident response workflows.
-![image](https://github.com/user-attachments/assets/96b2bf9b-f42e-42a6-911b-0f19abbf2d9b)
 
 ---
 
@@ -19,8 +18,7 @@ Cloud misconfigurations and compliance lapses were major concerns for the organi
 - Achieve 90% alignment with NIST CSF standards
 - Cut mean time to remediate (MTTR) by at least 50%
 - Establish automated monitoring and remediation workflows
-  
-![image](https://github.com/user-attachments/assets/66174e34-f9cf-4344-8943-20974bc95ff8)
+
 
 ---
 
