@@ -55,7 +55,6 @@ Cloud misconfigurations and compliance lapses were major concerns for the organi
 - Embedded Checkov for Infrastructure-as-Code scanning in CI/CD pipelines
 
 ### Phase 3: Continuous Monitoring
-
 - Weekly posture reviews and tagging compliance reporting
 - Suppression rules and alert tuning to reduce false positives and alert fatigue
 - DevSecOps alignment to ensure misconfigurations are resolved pre-deployment
